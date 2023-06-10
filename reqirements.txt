@@ -4,3 +4,6 @@ emojis,text field lines paragraphs interface etc.
 dark mode
 video calls
 call logs
+
+payment option
+check  box
